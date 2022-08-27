@@ -1,0 +1,1 @@
+# is-manna-npm-package
