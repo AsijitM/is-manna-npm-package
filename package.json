@@ -1,0 +1,22 @@
+{
+  "name": "@asijit69/is-manna",
+  "version": "1.0.0",
+  "description": "is the String ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsijitM/is-manna-npm-package.git"
+  },
+  "keywords": [
+    "Asi"
+  ],
+  "author": "Asijit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsijitM/is-manna-npm-package/issues"
+  },
+  "homepage": "https://github.com/AsijitM/is-manna-npm-package#readme"
+}
